@@ -1,0 +1,64 @@
+
+
+.owl-animated-out {
+    z-index : 1 
+     }
+  
+  .owl-animated-in {
+    z-index : 0 
+     }
+
+  .fadeOut  {
+    -webkit-animation-name : fadeOut  ;
+    animation-name : fadeOut  ;
+  }  
+
+
+
+  @-webkit-keyframes  fadeOut  {
+    0% {
+      opacity : 1   ;
+    }  
+    100% {
+      opacity : 0   ;
+    }  
+  }
+  @keyframes  fadeOut  {
+    0% {
+      opacity : 1   ;
+    }  
+    100% {
+      opacity : 0   ;
+    }  
+  }
+
+
+.owl-animated-out {
+    z-index : 1 
+     }
+  
+  .owl-animated-in {
+    z-index : 0 
+     }
+
+  .fadeOut  {
+    -webkit-animation-name : fadeOut  ;
+    animation-name : fadeOut  ;
+  }  
+
+  @-webkit-keyframes  fadeOut  {
+    0% {
+      opacity : 1   ;
+    }  
+    100% {
+      opacity : 0   ;
+    }  
+  }
+  @keyframes  fadeOut  {
+    0% {
+      opacity : 1   ;
+    }  
+    100% {
+      opacity : 0   ;
+    }  
+  }
